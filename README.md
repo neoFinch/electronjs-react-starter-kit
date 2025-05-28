@@ -99,11 +99,11 @@ npm run package:all
 
 ### Configuring Electron
 
-Edit `src/main/index.js` to customize the Electron main process.
+Edit `src/index.ts` to customize the Electron main process.
 
 ### Styling with Tailwind
 
-Edit `src/renderer/styles/index.css` to add custom Tailwind directives or global styles.
+Edit `src/index.css` to add custom Tailwind directives or global styles.
 
 ## License
 
