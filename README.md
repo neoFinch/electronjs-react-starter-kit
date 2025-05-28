@@ -14,8 +14,8 @@ A modern starter template for building cross-platform desktop applications using
 
 ## Prerequisites
 
-- Node.js 16.0.0 or higher
-- npm 7.0.0 or higher (or yarn)
+- Node.js 22.0.0 or higher
+- npm 9.0.0 or higher (or yarn)
 
 ## Getting Started
 
