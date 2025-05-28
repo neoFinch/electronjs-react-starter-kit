@@ -34,9 +34,9 @@ A modern starter template for building cross-platform desktop applications using
 
 3. **Start the development server**
    ```bash
-   npm run dev
+   npm start
    # or
-   yarn dev
+   yarn start
    ```
    This will start the Webpack dev server and Electron in development mode.
 
@@ -74,7 +74,7 @@ To create a production build:
 
 ```bash
 # Build the app
-npm run build
+npm run make
 
 # Package the app for the current platform
 npm run package
